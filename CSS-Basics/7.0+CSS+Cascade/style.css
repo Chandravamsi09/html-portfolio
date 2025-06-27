@@ -1,0 +1,19 @@
+/* Don't change the existing CSS. */
+#outer-box{
+  background-color: blueviolet;
+}
+.white-text{
+  background-color: crimson;
+  padding: 10px;
+
+}
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
